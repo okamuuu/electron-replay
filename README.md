@@ -1,4 +1,4 @@
-# electron-replay
+# replay
 
 An Electron Based Video Player. Supporting Just PlaybackRate Changing.
 
@@ -9,7 +9,7 @@ An Electron Based Video Player. Supporting Just PlaybackRate Changing.
 
 ## Installation
 
-To install it download the latest release for your platform.
+To install it download the [latest release](https://github.com/okamuuu/replay/releases/latest) for your platform.
 
 ## Currently supported releases:
 
